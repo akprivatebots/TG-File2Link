@@ -226,8 +226,7 @@ async def help_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_text(
-        text="\n
-╭───[ **🔅TeleRoidFile2Link🔅**]───⍟
+        text="\n ╭───[ **🔅TeleRoidFile2Link🔅**]───⍟
 │
 ├<b>🤖Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>\n
 │
